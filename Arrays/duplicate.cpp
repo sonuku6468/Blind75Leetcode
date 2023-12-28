@@ -2,6 +2,8 @@
 #include <vector>
 
 //git commit -m "Your commit message"
+//git push origin master
+
 using namespace std;
 
 int duplicate(vector<int>& element) {
