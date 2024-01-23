@@ -24,6 +24,11 @@ bool canJump(vector<int>& nums) {
     }
 int main()
 {
+    //code
+    vector<int> v = {3, 2, 1, 0, 4};
+    cout << "Can jump? " << (canJump(v)? "Yes" :
+    "No")<< endl;
     
+
     return 0;
 }
